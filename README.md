@@ -16,4 +16,7 @@ Then update `app/translations/fr/LC_MESSAGES/messages.po` to add the translation
 `http --auth <username>:<password> POST http://localhost:5000/api/tokens`  
 * To use token  
 `http GET http://localhost:5000/api/<resource> "Authorization:Bearer <token>"`  
-* To view API resources, browse `app/api/users.py`  
+* To view API resources, browse `app/api/users.py`
+* Links to tutorial  
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world-2018  
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
