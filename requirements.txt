@@ -26,7 +26,7 @@ html-tag-names==0.1.2
 html-void-elements==0.1.0
 idna>=3.7
 itsdangerous==2.1.2
-Jinja2==3.1.2
+Jinja2==3.1.4
 jsbeautifier==1.14.9
 json5==0.9.14
 langdetect==1.0.9
@@ -44,8 +44,8 @@ rq==1.15.1
 six==1.16.0
 SQLAlchemy==2.0.22
 tomli==2.0.1
-tqdm==4.66.1
+tqdm==4.66.3
 typing_extensions==4.8.0
 urllib3==2.1.0
-Werkzeug==3.0.0
+Werkzeug==3.0.3
 WTForms==3.1.0
