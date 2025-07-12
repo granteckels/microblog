@@ -46,7 +46,6 @@ SQLAlchemy==2.0.22
 tomli==2.0.1
 tqdm==4.66.3
 typing_extensions==4.8.0
-# urllib3==2.1.0
-urllib3==2.2.2
+urllib3==2.5.0
 Werkzeug==3.0.6
 WTForms==3.1.0
